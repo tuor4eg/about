@@ -27,14 +27,14 @@ Knowledge of variuos network technologies - TCP/IP, vpn, dhcp, shared sources an
 
 Total Duration9 yrs 7 mos
 
-#### Software Developer
+##### Software Developer
 - Developing console utilities with Python for managing zfs datasets and jails on FreeBSD
 - Developing modules with PHP and Node.js
 - Integated service working with NDPi-library.
 - Reverse developed notification service using nodemailer, xmpp.js, telegram-bot-api. Tried to work with viber and whatsapp, but they both have to many problems with integration and documentation, so kill them with fire.
 - Working with ElasticSearch and Kibana
 
-#### Head of technical support
+##### Head of technical support
 Entered in IT as the only specialist of tech support at small developer company. The supported product is UTM based on FreeBSD with some features like post server, web server and others (https://icscube.com). Became the head of support departament up to 5 employers. Participated in discussions of software's future features and UX view depending on users feedback. The major points are:
 
 - solve user problems "under the hood" by using SSH-connection to user's server,
@@ -47,7 +47,7 @@ Entered in IT as the only specialist of tech support at small developer company.
 
 #### LLC Gatteria
 
-##### Appraiser
+###### Appraiser
 
 Dates Employed May 2006 – Aug 2009
 Employment Duration3 yrs 4 mos
