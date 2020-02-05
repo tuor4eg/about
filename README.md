@@ -25,7 +25,7 @@ Knowledge of variuos network technologies - TCP/IP, vpn, dhcp, shared sources an
 
 #### A-Real Consulting
 
-Total Duration9 yrs 7 mos
+Total Duration 10 years more
 
 ##### Software Developer
 - Developing console utilities with Python for managing zfs datasets and jails on FreeBSD
@@ -49,9 +49,7 @@ Entered in IT as the only specialist of tech support at small developer company.
 
 ###### Appraiser
 
-Dates Employed May 2006 – Aug 2009
-Employment Duration3 yrs 4 mos
-LocationYaroslavl Region, Russian Federation
+Employment Duration 3 yrs
 
  Non-IT job, however it gave to me some usefull skills at any job, like:
 
