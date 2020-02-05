@@ -2,19 +2,24 @@
 
 ## Alex Sterin
 
-## Head Of Technical Support at A-Real Consulting
+## Software developer at A-Real Consulting
 
 ### Summary 
 
-Entered in IT more than 10 years ago and growned from the only tech support specialist to the head of the departament. System administrator of FreeBSD systems with using such components as squid, pf, ipfw, postfix, bind and others.
+Started to work in IT more than 10 years ago, from the only tech support specialist. During those years, became head of the support departament.
+System administrator of FreeBSD systems with squid, pf, ipfw, postfix, bind, apache, nginx and other components. Some expirience with Asterisk.
 
-Taked courses of Javascript and Node.js. Got the full course of Back-End JS developer and some themes from course of Front-End JS developer with using React.
+Took courses of Javascript and Node.js. Got the full course of Back-End JS developer and some chapters from course of Front-End JS developer with React.
 
-Have the own project with React Native as front-end and Express as back-end. 
+Implemented a project with React Native as front-end and Express as back-end on Android. Using React Navigation and Redux. Have some expirience with developing RESTful API.
 
-Good skills in SQL (Mysql, mariaDB). Have an expirience with Git. Some using of jQuery and naitve DOM in JS.
+Took decision to move on software engineer position at the same company. At the moment developed several modules of product with Python, PHP and Node.js. Working with ElasticSearch and Kibana for developing telemetry system.
 
-Knowledge of variuos network technologies - TCP/IP, vpn, dhcp, shared sources and so long.
+Developed little own single full-stack project with express.js and sequelize at back-end and bootstrap and YandexMapsAPI at front-end. Haven't enough skills at design, so it's not very pleasant, but works well :) https://vglushi.ru
+
+Good skills in SQL (Mysql, MariaDB). Have an expirience with Git. Some using of jQuery, Bootstrap and naitve DOM in JS.
+
+Knowledge of variuos network technologies - TCP/IP, vpn, dhcp, shared sources and so long. 
 
 ### Jobs
 
@@ -22,29 +27,23 @@ Knowledge of variuos network technologies - TCP/IP, vpn, dhcp, shared sources an
 
 Total Duration9 yrs 7 mos
 
-##### Head of technical support
+#### Software Developer
+- Developing console utilities with Python for managing zfs datasets and jails on FreeBSD
+- Developing modules with PHP and Node.js
+- Integated service working with NDPi-library.
+- Reverse developed notification service using nodemailer, xmpp.js, telegram-bot-api. Tried to work with viber and whatsapp, but they both have to many problems with integration and documentation, so kill them with fire.
+- Working with ElasticSearch and Kibana
 
-Dates Employed Aug 2013 – Present
-Employment Duration5 yrs 7 mos
-LocationYaroslavl, Russian Federation
-
-Growned the own departament up to 5 employers. Participate in discussions of software's future features and UX view depending on users feedback. The major points are: 
-
-- support clients with "premium" subscribe, 
-- hold online webinars about the product, 
-- write documentation about the product, 
-- make learning videos about setting up the product's modules;
-
-##### Technical Support Specialist
-
-Dates Employed Aug 2009 – Aug 2013
-Employment Duration4 yrs 1 mo
-LocationYaroslavl Region, Russian Federation
-Entered in IT as the only specialist of tech support at small developer company. The supported product is UTM based on FreeBSD with some features like post server, web server and others (https://icscube.com). The main duties was:
+#### Head of technical support
+Entered in IT as the only specialist of tech support at small developer company. The supported product is UTM based on FreeBSD with some features like post server, web server and others (https://icscube.com). Became the head of support departament up to 5 employers. Participated in discussions of software's future features and UX view depending on users feedback. The major points are:
 
 - solve user problems "under the hood" by using SSH-connection to user's server,
 - consult users how to get the most efficiency from the product,
- - investigate user's network system to get the way to integrate the product; See less
+- investigate user's network system to get the way to integrate the product;
+- support clients with "premium" subscription,
+- performing online webinars about the product,
+- writing documentation about the product,
+- making videos about setting up the product's modules;
 
 #### LLC Gatteria
 
@@ -58,4 +57,4 @@ LocationYaroslavl Region, Russian Federation
 
 - markets investigations, 
 - analyzing statistics, 
-- detecting dependenses; See less
+- detecting dependenses;
