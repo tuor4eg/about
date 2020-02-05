@@ -56,3 +56,15 @@ Employment Duration 3 yrs
 - markets investigations, 
 - analyzing statistics, 
 - detecting dependenses;
+
+### Education
+Yaroslavl State Technical University (YSTU)
+Design engineer Road construction machinery
+2000 – 2005
+
+### Licenses & Certifications
+Cisco CCNA
+Issued Jul 2009
+
+Hexlet Back-End Node-JS Profession
+Issued 2018
